@@ -1,6 +1,14 @@
 # Prueba
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
+Angular CLI: 10.0.8
+Node: 12.13.1
+Angular/material: 10.1.2
+----------------------------
+
+
+
+
 
 ## Development server
 
